@@ -6,8 +6,6 @@
 
  // nums = [2 ,7 ,11 ,15]
  // target = 9
- // i = 1
- // j = 2
 
  var twoSum = function(nums, target) {
     for (var i=0 ; i<nums.length ; i++) {
@@ -18,3 +16,4 @@
         }
        
    }
+   };
